@@ -2212,6 +2212,11 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
+rangkaui-next@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/rangkaui-next/-/rangkaui-next-0.0.8.tgz#ccb63b360fc3fb7bd40bf975558f5ab848b553c7"
+  integrity sha512-tl9ArhG/LFzMiflPG53bGGPC6YczKxMQjse9JkzwA3zSCh/LkJeYV7xQ+ubfV4bvy9trtxwCm4t/+uPUr7hY+w==
+
 react-dom@19.0.0-rc-66855b96-20241106:
   version "19.0.0-rc-66855b96-20241106"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.0.0-rc-66855b96-20241106.tgz#beba73decfd1b9365a3c83673a298623b15acb0b"
